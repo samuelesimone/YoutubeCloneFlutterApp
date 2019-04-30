@@ -1,6 +1,10 @@
 # Youtube Clone Flutter App
 
 Simple clone of Youtube app on Flutter.
+# Home screen preview
+![](https://github.com/samuelesimone/YoutubeCloneFlutterApp/blob/master/screenshots/screen1.jpg)
+# Responsive horizontal layout
+![](https://github.com/samuelesimone/YoutubeCloneFlutterApp/blob/master/screenshots/screen2.jpg)
 
 ## Getting Started
 
