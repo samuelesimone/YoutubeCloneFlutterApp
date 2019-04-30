@@ -1,6 +1,6 @@
-# flutter_first_app
+# Youtube Clone Flutter App
 
-A new Flutter application.
+Simple clone of Youtube app on Flutter.
 
 ## Getting Started
 
